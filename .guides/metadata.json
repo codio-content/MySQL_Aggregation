@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "id": "a77a78c7-7d95-d540-440c-bfd3316238e2",
+   "title": "Recap",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-a77a.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4ab2d422-8728-3d8c-df57-d2507bd193aa",
+   "title": "What we'll learn",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-we-ll-learn-4ab2.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
