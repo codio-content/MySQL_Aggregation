@@ -71,11 +71,11 @@
   },
   {
    "id": "b3964d1c-fb70-bf56-20-2645f011916",
-   "title": "Simple aliases",
+   "title": "SQL simple aliases",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Simple-aliases-b396.md",
+   "content-file": ".guides/content/SQL-simple-aliases-b396.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -87,6 +87,17 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQL-MIN---WHERE-c2fb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6fc9478-da51-f608-237f-3e42d620d2e0",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-6fc9.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -110,6 +121,50 @@
    "type": "markdown",
    "content-file": ".guides/content/SQL-MAX---3eb2.md",
    "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2dab89dd-b786-a581-95eb-da82991a2149",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-2dab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "42d4b8f0-2982-94bd-a2a1-1019ed7cf7b5",
+   "title": "Multiple functions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Multiple-functions-42d4.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2242fa20-432c-29b8-4f8b-3b34be3aa935",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-12-2242.md",
+   "chapter": false,
    "reset": [],
    "teacherOnly": false
   }
