@@ -42,8 +42,74 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-4-33a8.md",
+   "content-file": ".guides/content/Unit-approach-33a8.md",
    "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2d9c858b-7046-86d1-32b1-5325e5d8e9af",
+   "title": "SQL MIN()",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-MIN---2d9c.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b3964d1c-fb70-bf56-20-2645f011916",
+   "title": "Simple aliases",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simple-aliases-b396.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c2fb7744-cdc-cf58-2b59-2f49534b593c",
+   "title": "SQL MIN() WHERE",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-MIN---WHERE-c2fb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3eb2b6fd-dff5-6b9d-6913-75c5958e376a",
+   "title": "SQL MAX()",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-MAX---3eb2.md",
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   }
