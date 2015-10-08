@@ -23,6 +23,29 @@
    "chapter": true,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "f4e1e245-5b04-71f8-e19a-2b8695a576df",
+   "title": "E Store DB",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/E-Store-DB-f4e1.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "33a867e1-36e4-a8c-df42-fd421bc79f2f",
+   "title": "Unit approach",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-4-33a8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
