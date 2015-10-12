@@ -202,12 +202,34 @@
    "teacherOnly": false
   },
   {
+   "id": "f6fff155-3479-e463-42f9-1bd3b917d989",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-f6ff.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "45d725f-1209-3685-d01c-23073043186d",
    "title": "SQL Average",
    "files": [],
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQL-Average-45d7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "54da1bd6-914c-3e50-ce59-11627ce13376",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-54da.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -224,12 +246,79 @@
    "teacherOnly": false
   },
   {
+   "id": "31c68e4c-fa59-f63-f36a-97c7e4796bbf",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-31c6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "97bb8c5d-e7b4-edf5-7d04-112f5e97f39c",
    "title": "SQL Average",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-17-97bb.md",
+   "content-file": ".guides/content/SQL-Average-97bb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dbe390bb-8ed8-98a1-c27a-16698c9fec7c",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-dbe3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a1d2782-f261-adbe-de52-23087a9ad3cf",
+   "title": "SQL Group By",
+   "files": [],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-Group-By-a1d2.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "12027132-5470-744-ce73-2969b9eae9f0",
+   "title": "SQL Group By",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-Group-By-1202.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ba12f4c0-ddb0-a4f5-1c43-a42c9aae37ee",
+   "title": "SQL Group By",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-Group-By-ba12.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a932818a-93d8-ba73-b816-50bf1eb752d9",
+   "title": "GROUP BY - HAVING",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-25-a932.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

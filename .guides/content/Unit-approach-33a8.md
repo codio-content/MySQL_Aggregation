@@ -14,9 +14,13 @@ While the user is viewing a single product, he/she may want to:
 
 - Get the average rating of the product
 
+The user creates a wishlist with two or more products and he/she may want to: 
+
+- Get the average rating of each product in the wishlist
+
 Finally, after the user adds products to the shopping cart, he/she may want to: 
 
-- Get the total count
+- Get the product count
 - Get the total price
 
 ---
