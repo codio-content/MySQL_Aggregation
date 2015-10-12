@@ -163,7 +163,73 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-12-2242.md",
+   "content-file": ".guides/content/Challenge-2242.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a8cf363b-9dcb-5e25-bd4f-bd85ae5afa8",
+   "title": "SQL Average",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-Average-a8cf.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "edfc5251-c647-b327-db4e-c0cd226b4105",
+   "title": "SQL Average",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-Average-edfc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "45d725f-1209-3685-d01c-23073043186d",
+   "title": "SQL Average",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-Average-45d7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d5d7e502-2db0-a1-57c0-34acc20cb7a5",
+   "title": "SQL Average",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-Average-d5d7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "97bb8c5d-e7b4-edf5-7d04-112f5e97f39c",
+   "title": "SQL Average",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-17-97bb.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

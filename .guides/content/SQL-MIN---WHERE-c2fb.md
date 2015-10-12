@@ -1,6 +1,6 @@
 Because we are working with SQL `SELECT` statements, it is possible to use the `WHERE` clause to make our queries more specific.
 
-This time, let's get the lowest star of a specific product_id from the `e_store.reviews` table. 
+This time, let's get the lowest star of a specific `product_id` from the `e_store.reviews` table. 
 
 Do a `SELECT * FROM e_store.reviews;` to see the entire records and then, perform the following multi-line statement in the `mysql>` command line: 
 

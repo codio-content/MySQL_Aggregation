@@ -18,5 +18,16 @@ mysql> SELECT
     -> WHERE id <= 5;
 ```
 
+And you should see this:
+
+```
++-------------------+-------------------+
+| product_min_price | product_max_price |
++-------------------+-------------------+
+|             20.00 |            157.40 |
++-------------------+-------------------+
+1 row in set (0.02 sec)
+```
+
 ---
 Complete a code challenge in the next section.

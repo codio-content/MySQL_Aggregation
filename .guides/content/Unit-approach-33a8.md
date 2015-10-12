@@ -12,10 +12,11 @@ Imagine that the user wants to get from the product catalog:
 
 While the user is viewing a single product, he/she may want to: 
 
-- See the average rating of the product
+- Get the average rating of the product
 
 Finally, after the user adds products to the shopping cart, he/she may want to: 
 
+- Get the total count
 - Get the total price
 
 ---

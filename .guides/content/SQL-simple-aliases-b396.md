@@ -1,4 +1,4 @@
-The result of the previous `SELECT MIN(price) FROM e_store.products;` statement was this: 
+The result of the previous `SELECT MIN(price) FROM e_store.products;` statement is this: 
 
 ```
 +------------+
