@@ -1,4 +1,4 @@
-Even though we requested two `product_id`'s: `2` and `4` in the previous example, we only got the result where `product_id` = `2`. 
+Even though we requested two `product_id`'s (`2` and `4`) in the previous example, we only got the result where `product_id` = `2`.
 
 ### Introducing SQL `GROUP BY` statement
 
@@ -9,7 +9,7 @@ To better understand this, let's extend our previous SQL `JOIN` statement with t
 Important things to notice: 
 
 - The alias for the `AVG(stars)` column name is `avg_stars`
-- The resulting-set should be _grouped by_ the `product_id` column
+- The resulting set is _grouped by_ the `products.id` column and will determine the sorting order
 
 ```
 mysql> SELECT products.id, name, 

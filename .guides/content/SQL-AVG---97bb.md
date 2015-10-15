@@ -1,6 +1,6 @@
 As you have experienced, it is possible to perform simple arithmetics with SQL aggregate functions. 
 
-Fortunately, SQL has an `AVG()` that calculates the average of number values for us. 
+Fortunately, SQL has an `AVG()` function that calculates the average of number values for us. 
 
 Let's get the average stars for the _Tablet_ product this time (the _Tablet_ product has `product_id` `1`), _alias_ the `stars` column as `stars_avg` this time.
 
@@ -29,4 +29,4 @@ And you should see this:
 Where `4.000` is the result of dividing `8` (the sum of stars for the _Tablet_ product) by `2` (the total count of _Tablet_ products with stars). 
 
 --- 
-All right! Get ready for a set of challenges on SQL Average.
+Complete a challenge on SQL `AVG()` function in the next section.

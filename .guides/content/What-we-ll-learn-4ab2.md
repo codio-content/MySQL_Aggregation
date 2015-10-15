@@ -6,9 +6,7 @@ In this unit, we will learn how to use the following functions by working with a
 
 - `AVG()`
 - `COUNT()`
-- `FIRST()`
-- `LAST()`
 - `MAX()`
 - `MIN()`
 - `SUM()`
-- Group by
+- `GROUP BY`

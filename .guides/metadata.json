@@ -192,11 +192,11 @@
   },
   {
    "id": "edfc5251-c647-b327-db4e-c0cd226b4105",
-   "title": "SQL Average",
+   "title": "Ambiguous column names",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/SQL-Average-edfc.md",
+   "content-file": ".guides/content/Ambiguous-column-names-edfc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -214,11 +214,11 @@
   },
   {
    "id": "45d725f-1209-3685-d01c-23073043186d",
-   "title": "SQL Average",
+   "title": "SQL SUM()",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/SQL-Average-45d7.md",
+   "content-file": ".guides/content/SQL-SUM---45d7.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -236,11 +236,11 @@
   },
   {
    "id": "d5d7e502-2db0-a1-57c0-34acc20cb7a5",
-   "title": "SQL Average",
+   "title": "SQL COUNT()",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/SQL-Average-d5d7.md",
+   "content-file": ".guides/content/SQL-COUNT---d5d7.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -257,12 +257,34 @@
    "teacherOnly": false
   },
   {
-   "id": "97bb8c5d-e7b4-edf5-7d04-112f5e97f39c",
+   "id": "2099fa5e-515b-1bfb-be3c-2d7a1ac297df",
    "title": "SQL Average",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/SQL-Average-97bb.md",
+   "content-file": ".guides/content/SQL-Average-2099.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2c3b4598-837b-33ff-35be-19f260c579c9",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-2c3b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "97bb8c5d-e7b4-edf5-7d04-112f5e97f39c",
+   "title": "SQL AVG()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-AVG---97bb.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -314,12 +336,91 @@
   },
   {
    "id": "a932818a-93d8-ba73-b816-50bf1eb752d9",
+   "title": "SQL Group By",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-Group-By-a932.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "24d69bf7-9844-3020-97a4-db58b7e67e9",
+   "title": "GROUP BY - HAVING",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/GROUP-BY---HAVING-24d6.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5fc123af-498a-5f1d-e0b1-c38cde1a",
    "title": "GROUP BY - HAVING",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-25-a932.md",
+   "content-file": ".guides/content/GROUP-BY---HAVING-5fc1.md",
    "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8115641b-891d-f400-fdb8-9830ca6df2b4",
+   "title": "GROUP BY - HAVING",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/GROUP-BY---HAVING-8115.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f1beeb5b-459b-8b5a-8fd2-5e92b64d7d1a",
+   "title": "GROUP BY - HAVING",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/GROUP-BY---HAVING-f1be.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cb2da8e5-684b-80b1-cebf-33796cdfcffb",
+   "title": "WHERE - GROUP BY ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/WHERE---GROUP-BY--cb2d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7a415ed8-f272-7313-e6dd-c09e37672d40",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-7a41.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a506c810-8446-311e-7348-4673d721898f",
+   "title": "Final challenges",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Final-challenges-a506.md",
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   }

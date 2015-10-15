@@ -1,7 +1,5 @@
 Now that you've reviewed the `e_store` database table structure, it's time to know how  you are going to work with its data.
 
-In this unit, we will focus on a __product catalog filters__ feature. 
-
 Imagine that the user wants to get from the product catalog: 
 
 - The product with the lowest price

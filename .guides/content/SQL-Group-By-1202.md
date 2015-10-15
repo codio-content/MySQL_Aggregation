@@ -12,7 +12,7 @@ mysql> SELECT products.id, name, AVG(stars)
     -> WHERE reviews.product_id = 2 OR reviews.product_id = 4;
 ```
 
-The aforementioned query should output this, (it is not what we expected though):
+The aforementioned query should output this:
 
 ```
 +----+------------+------------+
@@ -22,6 +22,8 @@ The aforementioned query should output this, (it is not what we expected though)
 +----+------------+------------+
 1 row in set (0.00 sec)
 ```
+
+However we expected both products, the Smartphone and the Headphones to be in the resulting table.
 
 ---
 Learn how to get the desired output in the next section.

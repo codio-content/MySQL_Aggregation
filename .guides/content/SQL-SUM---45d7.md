@@ -41,5 +41,4 @@ And you should see this:
 ```
 
 ---
-Now, let's get the total `COUNT()` of fields where the `product_id` equals `2`. 
-Go to the next section.
+Complete a challenge on SQL `SUM()` aggregate function in the next section and then continue with getting the total `COUNT()` of fields where the `product_id` equals `2`.
