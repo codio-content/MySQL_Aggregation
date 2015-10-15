@@ -1,4 +1,4 @@
-Finally
+Finally:
 
 ### Divide the `SUM(stars)` by the total `COUNT(stars)` of `product_id` = `2` fields to get the average
 

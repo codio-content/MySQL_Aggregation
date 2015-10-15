@@ -3,8 +3,13 @@
   {
    "id": "a77a78c7-7d95-d540-440c-bfd3316238e2",
    "title": "Recap",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Recap-a77a.md",
@@ -15,8 +20,13 @@
   {
    "id": "4ab2d422-8728-3d8c-df57-d2507bd193aa",
    "title": "What we'll learn",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-we-ll-learn-4ab2.md",
@@ -26,12 +36,22 @@
   },
   {
    "id": "f4e1e245-5b04-71f8-e19a-2b8695a576df",
-   "title": "E Store DB",
-   "files": [],
-   "layout": "",
+   "title": "E-store DB",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/E-Store-DB-f4e1.md",
+   "content-file": ".guides/content/E-store-DB-f4e1.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false
@@ -39,7 +59,13 @@
   {
    "id": "33a867e1-36e4-a8c-df42-fd421bc79f2f",
    "title": "Unit approach",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Unit-approach-33a8.md",
@@ -73,6 +99,7 @@
    "id": "b3964d1c-fb70-bf56-20-2645f011916",
    "title": "SQL simple aliases",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQL-simple-aliases-b396.md",
@@ -84,6 +111,7 @@
    "id": "c2fb7744-cdc-cf58-2b59-2f49534b593c",
    "title": "SQL MIN() WHERE",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQL-MIN---WHERE-c2fb.md",
@@ -94,8 +122,21 @@
   {
    "id": "6fc9478-da51-f608-237f-3e42d620d2e0",
    "title": "Challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-1.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-1.sql"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-6fc9.md",
    "chapter": false,
@@ -127,8 +168,21 @@
   {
    "id": "2dab89dd-b786-a581-95eb-da82991a2149",
    "title": "Challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-2.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-2.sql"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-2dab.md",
    "chapter": false,
@@ -160,8 +214,21 @@
   {
    "id": "2242fa20-432c-29b8-4f8b-3b34be3aa935",
    "title": "Challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-3.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-3.sql"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-2242.md",
    "chapter": false,
@@ -193,7 +260,13 @@
   {
    "id": "edfc5251-c647-b327-db4e-c0cd226b4105",
    "title": "Ambiguous column names",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Ambiguous-column-names-edfc.md",
@@ -204,8 +277,21 @@
   {
    "id": "f6fff155-3479-e463-42f9-1bd3b917d989",
    "title": "Challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-4.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-4.sql"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-f6ff.md",
    "chapter": false,
@@ -215,7 +301,18 @@
   {
    "id": "45d725f-1209-3685-d01c-23073043186d",
    "title": "SQL SUM()",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQL-SUM---45d7.md",
@@ -226,8 +323,21 @@
   {
    "id": "54da1bd6-914c-3e50-ce59-11627ce13376",
    "title": "Challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-5.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-5.sql"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-54da.md",
    "chapter": false,
@@ -237,7 +347,18 @@
   {
    "id": "d5d7e502-2db0-a1-57c0-34acc20cb7a5",
    "title": "SQL COUNT()",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQL-COUNT---d5d7.md",
@@ -248,8 +369,21 @@
   {
    "id": "31c68e4c-fa59-f63-f36a-97c7e4796bbf",
    "title": "Challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-6.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-6.sql"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-31c6.md",
    "chapter": false,
@@ -259,7 +393,18 @@
   {
    "id": "2099fa5e-515b-1bfb-be3c-2d7a1ac297df",
    "title": "SQL Average",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQL-Average-2099.md",
@@ -270,8 +415,21 @@
   {
    "id": "2c3b4598-837b-33ff-35be-19f260c579c9",
    "title": "Challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-7.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-7.sql"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-2c3b.md",
    "chapter": false,
@@ -281,7 +439,18 @@
   {
    "id": "97bb8c5d-e7b4-edf5-7d04-112f5e97f39c",
    "title": "SQL AVG()",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQL-AVG---97bb.md",
@@ -292,8 +461,21 @@
   {
    "id": "dbe390bb-8ed8-98a1-c27a-16698c9fec7c",
    "title": "Challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-8.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-8.sql"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-dbe3.md",
    "chapter": false,
@@ -303,7 +485,17 @@
   {
    "id": "a1d2782-f261-adbe-de52-23087a9ad3cf",
    "title": "SQL Group By",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
@@ -316,6 +508,7 @@
    "id": "12027132-5470-744-ce73-2969b9eae9f0",
    "title": "SQL Group By",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQL-Group-By-1202.md",
@@ -404,8 +597,21 @@
   {
    "id": "7a415ed8-f272-7313-e6dd-c09e37672d40",
    "title": "Challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-9.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-9.sql"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-7a41.md",
    "chapter": false,
@@ -415,11 +621,88 @@
   {
    "id": "a506c810-8446-311e-7348-4673d721898f",
    "title": "Final challenges",
-   "files": [],
-   "layout": "",
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-10.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-10.sql"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Final-challenges-a506.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "98a34822-749a-4a04-5cc-5a05dbef468",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-11.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-11.sql"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-98a3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7926acc1-2242-f3e3-e6f6-c4cc9732d9a0",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sql-6-12.sql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "sql-6-12.sql"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-7926.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2b12ac4f-afcb-3aa1-678b-8fdbce96f007",
+   "title": "That's all folks",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/That-s-all-folks-2b12.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false

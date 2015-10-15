@@ -1,4 +1,4 @@
-In the `mysql>` prompt, type the SQL `SELECT` query that represents the previous list:
+In the `mysql>` command line, type the SQL `SELECT` query that represents the previous list:
 
 ```
 mysql> SELECT products.id, products.name, 
