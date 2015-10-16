@@ -11,6 +11,8 @@ Important things to notice:
 - The alias for the `AVG(stars)` column name is `avg_stars`
 - The resulting set is _grouped by_ the `products.id` column and will determine the sorting order
 
+In your `mysql>` command line, `USE` the `e_store` database and:
+
 ```
 mysql> SELECT products.id, name, 
     -> AVG(stars) AS avg_stars 

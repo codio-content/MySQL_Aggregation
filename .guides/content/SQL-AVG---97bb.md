@@ -2,9 +2,9 @@ As you have experienced, it is possible to perform simple arithmetics with SQL a
 
 Fortunately, SQL has an `AVG()` function that calculates the average of number values for us. 
 
-Let's get the average stars for the _Tablet_ product this time (the _Tablet_ product has `product_id` `1`), _alias_ the `stars` column as `stars_avg` this time.
+Let's get the average stars for the _Tablet_ product this time (the _Tablet_ product has `product_id` `1`), _alias_ the `stars` column as `stars_avg`.
 
-In your `mysql>` command line: 
+In your `mysql>` command line, `USE` the `e_store` database and: 
 
 ```
 mysql> SELECT products.id, name, 

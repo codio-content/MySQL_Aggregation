@@ -9,7 +9,7 @@ GROUP BY products.id HAVING avg_stars < 5;
 
 Because the `GROUP BY` - `HAVING` focuses on _aggregate functions_ and _aliases_ results.
 
-However, doing the same in a `WHERE` statement will result in the following error:
+However, writing a `WHERE avg_stars < 5` statement will result in the following error:
 
 ```
 ERROR 1054 (42S22): Unknown column 'avg_stars' in 'where clause'

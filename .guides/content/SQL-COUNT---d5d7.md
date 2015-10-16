@@ -1,6 +1,6 @@
 ### `COUNT()` the number of `stars` fields where `product_id` equals `2`
 
-In your `mysql>` command line: 
+In your `mysql>` command line, `USE` the `e_store` database and: 
 
 ```
 mysql> SELECT products.id, name, COUNT(stars) 

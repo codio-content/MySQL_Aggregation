@@ -19,7 +19,7 @@ In order to get the stars average we need to:
 
 ### `SUM()` the number of stars in each row 
 
-In your `mysql>` command line: 
+In your `mysql>` command line, `USE` the `e_store` database and: 
 
 ```
 mysql> SELECT products.id, name, SUM(stars) 

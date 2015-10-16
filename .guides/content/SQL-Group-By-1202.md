@@ -2,7 +2,7 @@ The wishlist has currently 2 products: `product_id` `2` (Smartphone) and `produc
 
 Let's try to get the `AVG(stars)` for each of them with a single SQL `JOIN` statement.
 
-In your `mysql>` command line: 
+In your `mysql>` command line, `USE` the `e_store` database and: 
 
 ```
 mysql> SELECT products.id, name, AVG(stars)

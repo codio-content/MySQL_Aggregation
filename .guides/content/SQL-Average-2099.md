@@ -2,7 +2,7 @@ Finally:
 
 ### Divide the `SUM(stars)` by the total `COUNT(stars)` of `product_id` = `2` fields to get the average
 
-In your `mysql>` command line:
+In your `mysql>` command line, `USE` the `e_store` database and:
 
 ```
 mysql> SELECT products.id, name, SUM(stars)/COUNT(stars) 
