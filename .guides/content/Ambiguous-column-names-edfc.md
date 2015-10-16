@@ -11,7 +11,7 @@ mysql> SELECT
 
 This is because the `e_store.reviews` table also has an `id` column. 
 
-Specifying the table and column with the dot syntax will avoid the following error: 
+Specifying the table and column with the dot syntax will prevent the following error: 
 
 ```
 ERROR 1052 (23000): Column 'id' in field list is ambiguous
