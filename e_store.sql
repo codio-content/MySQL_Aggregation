@@ -2,6 +2,8 @@ SET FOREIGN_KEY_CHECKS=0;
 DROP DATABASE IF EXISTS e_store;
 CREATE DATABASE IF NOT EXISTS e_store;
 
+-- GRANT SELECT,CREATE,ALTER ON e_store.* TO ''@'localhost';
+
 CREATE TABLE e_store.products (
 	id INT(3) UNSIGNED NOT NULL AUTO_INCREMENT,
 	name VARCHAR(255) NOT NULL,
@@ -11,20 +13,18 @@ CREATE TABLE e_store.products (
 	PRIMARY KEY (id)
 ) AUTO_INCREMENT = 1;
 
-CREATE TABLE e_store.users (
-	id INT(3) UNSIGNED NOT NULL AUTO_INCREMENT,
-	username VARCHAR(255) NOT NULL,
-	PRIMARY KEY (id)
-) AUTO_INCREMENT = 1;
+-- CREATE TABLE e_store.users (
+-- 	id INT(3) UNSIGNED NOT NULL AUTO_INCREMENT,
+-- 	username VARCHAR(255) NOT NULL,
+-- 	PRIMARY KEY (id)
+-- ) AUTO_INCREMENT = 1;
 
 CREATE TABLE e_store.reviews (
 	id INT(3) UNSIGNED NOT NULL AUTO_INCREMENT,
 	product_id INT(3) UNSIGNED NOT NULL,
 	stars TINYINT(1) UNSIGNED NOT NULL DEFAULT 1,
-	user_id INT(3) UNSIGNED NOT NULL,
 	PRIMARY KEY (id),
-	FOREIGN KEY (product_id) REFERENCES e_store.products(id),
-	FOREIGN KEY (user_id) REFERENCES e_store.users(id)
+	FOREIGN KEY (product_id) REFERENCES e_store.products(id)
 ) AUTO_INCREMENT = 1;
 
 INSERT INTO e_store.products (name, price, stock, created_at)
@@ -36,25 +36,25 @@ VALUES
 ("Speakers", 56.89, 4, "2015-10-27 12:24:56"),
 ("Monitor", 125.45, 7, "2015-10-22 11:32:53");
 
-INSERT INTO e_store.users (username) 
-VALUES 
-("Richardson"),
-("Case"),
-("Green"),
-("Avery"),
-("Johnson");
+-- INSERT INTO e_store.users (username) 
+-- VALUES 
+-- ("Richardson"),
+-- ("Case"),
+-- ("Green"),
+-- ("Avery"),
+-- ("Johnson");
 
-INSERT INTO e_store.reviews (product_id, stars, user_id)
+INSERT INTO e_store.reviews (product_id, stars)
 VALUES 
-(6, 5, 1),
-(4, 2, 3),
-(2, DEFAULT, 3),
-(4, 5, 2),
-(1, 5, 3),
-(2, 4, 4),
-(3, 3, 2),
-(2, 2, 1),
-(1, 3, 2);
+(6, 5),
+(4, 2),
+(2, DEFAULT),
+(4, 5),
+(1, 5),
+(2, 4),
+(3, 3),
+(2, 2),
+(1, 3);
 
 
 SET FOREIGN_KEY_CHECKS=1;

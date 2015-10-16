@@ -119,7 +119,7 @@ function dbLookup(dbName, tasks, userQueriesArr){
 	});
 }
 
-sqltest.testCommands = function(srcFile, dbName, tasks, pholder){
+sqltest.init = function(srcFile, dbName, tasks, pholder){
 	globalDbName = dbName;
 	placeholder = pholder ? pholder : '';
 	readChallengeFile(srcFile, tasks).then(function(userQueriesArr){

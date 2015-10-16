@@ -17,16 +17,6 @@ Tables from the `e_store` database (you can inspect these in the `mysql>` prompt
 +------------+-----------------+------+-----+---------+----------------+
 ```
 
-`SHOW COLUMNS FROM e_store.users`:
-```
-+----------+-----------------+------+-----+---------+----------------+
-| Field    | Type            | Null | Key | Default | Extra          |
-+----------+-----------------+------+-----+---------+----------------+
-| id       | int(3) unsigned | NO   | PRI | NULL    | auto_increment |
-| username | varchar(255)    | NO   |     | NULL    |                |
-+----------+-----------------+------+-----+---------+----------------+
-```
-
 `SHOW COLUMNS FROM  e_store.reviews`:
 ```
 +------------+---------------------+------+-----+---------+----------------+
@@ -35,6 +25,6 @@ Tables from the `e_store` database (you can inspect these in the `mysql>` prompt
 | id         | int(3) unsigned     | NO   | PRI | NULL    | auto_increment |
 | product_id | int(3) unsigned     | NO   | MUL | NULL    |                |
 | stars      | tinyint(1) unsigned | NO   |     | 1       |                |
-| user_id    | int(3) unsigned     | NO   | MUL | NULL    |                |
 +------------+---------------------+------+-----+---------+----------------+
+3 rows in set (0.00 sec)
 ```
