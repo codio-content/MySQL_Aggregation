@@ -2,7 +2,7 @@ E-commerce is one of the most popular business-models on the internet.
 
 Regardless of the products that the e-commerce platform may sell, its product catalog may have the following data structure (or similar in it's simplest form): 
 
-Tables from the `e_store` database:
+Tables from the `e_store` database (you can inspect these in the `mysql>` prompt as well):
 
 `SHOW COLUMNS FROM e_store.products`:
 ```
