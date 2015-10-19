@@ -5,8 +5,8 @@
 
 ```
 SELECT 
-MIN(stock) AS less_stock, 
-MAX(created_at) AS most_recent_product, 
+MIN(stock) AS least_stock, 
+MAX(created_at) AS newest_product, 
 MAX(price) AS product_max_price 
 FROM e_store.products;
 ```

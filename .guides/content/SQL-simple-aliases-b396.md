@@ -9,7 +9,7 @@ The result of the previous `SELECT MIN(price) FROM e_store.products;` statement 
 1 row in set (0.02 sec)
 ```
 
-SQL aliases allow us to change the columns names in a `SELECT` query for clarity and efficiency. 
+SQL aliases allow us to change the column names in a `SELECT` query for clarity and efficiency. 
 
 ### Aliasing the `MIN(price)` column name
 

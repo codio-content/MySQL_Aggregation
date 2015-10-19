@@ -9,12 +9,17 @@ mysql> SELECT
     ...
 ```
 
-This is because the `e_store.reviews` table also has an `id` column. 
+This is because the `e_store.reviews` table also has an `id` column.
 
-Specifying the table and column with the dot syntax will prevent the following error: 
+If you get the following error:
 
 ```
 ERROR 1052 (23000): Column 'id' in field list is ambiguous
 ```
+
+You may avoid it either by:
+
+1. Specifying the table and column with the dot syntax
+2. Defining more specific column names for `id` fields when creating tables. Such as `product_id` or `review_id`
 
 |||

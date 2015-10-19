@@ -1,4 +1,4 @@
-As you have experienced, it is possible to perform simple arithmetics with SQL aggregate functions. 
+As you have experienced, it is possible to perform simple arithmetic with SQL aggregate functions. 
 
 Fortunately, SQL has an `AVG()` function that calculates the average of number values for us. 
 

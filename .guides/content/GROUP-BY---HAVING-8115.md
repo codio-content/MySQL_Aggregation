@@ -6,7 +6,7 @@ GROUP BY products.id HAVING avg_stars > 3;
 
 It is possible to create multiple filters in a single `SELECT` query by using both `WHERE` and `GROUP BY` - `HAVING` statements. 
 
-Let's translate the following list into a `SELECT` statement:
+On the following page we will translate the following list into a `SELECT` statement:
 
 1. `JOIN` the `products.id`, `products.name` columns with the `reviews.stars` column
 2. _Alias_ the _average_ of the `reviews.stars` column `AS` `avg_stars`

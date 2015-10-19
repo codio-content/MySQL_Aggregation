@@ -286,6 +286,11 @@
      "path": "sql-6-4.sql",
      "panel": 0,
      "action": "open"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
     }
    ],
    "layout": "2-panels",
@@ -330,6 +335,11 @@
     },
     {
      "path": "sql-6-5.sql",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: mysql",
      "panel": 0,
      "action": "open"
     }
@@ -378,6 +388,11 @@
      "path": "sql-6-6.sql",
      "panel": 0,
      "action": "open"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
     }
    ],
    "layout": "2-panels",
@@ -424,6 +439,11 @@
      "path": "sql-6-7.sql",
      "panel": 0,
      "action": "open"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
     }
    ],
    "layout": "2-panels",
@@ -468,6 +488,11 @@
     },
     {
      "path": "sql-6-8.sql",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: mysql",
      "panel": 0,
      "action": "open"
     }
@@ -606,6 +631,11 @@
      "path": "sql-6-9.sql",
      "panel": 0,
      "action": "open"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
     }
    ],
    "layout": "2-panels",
@@ -628,6 +658,11 @@
     },
     {
      "path": "sql-6-10.sql",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: mysql",
      "panel": 0,
      "action": "open"
     }

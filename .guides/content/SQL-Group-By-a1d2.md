@@ -4,7 +4,7 @@ What if we want to make calculations of different `product_id` values, _join_ th
 
 ### Getting the average rating of each product in the wishlist
 
-To better exemplify this scenario, let's have another look to the result of joining the `e_store.products` table and the `e_store.reviews` table:
+To better exemplify this scenario, let's have another look at the result of joining the `e_store.products` table and the `e_store.reviews` table:
 
 ```
 mysql> SELECT products.id, name, stars 
@@ -12,6 +12,8 @@ mysql> SELECT products.id, name, stars
     -> JOIN reviews 
     -> ON products.id = reviews.product_id;
 ```
+
+And you should see this:
 
 ```
 +----+------------+-------+

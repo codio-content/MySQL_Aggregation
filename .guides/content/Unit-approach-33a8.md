@@ -1,4 +1,4 @@
-Now that you've reviewed the `e_store` database table structure, it's time to know how  you are going to work with its data.
+Now that you've reviewed the `e_store` database table structure, it's time to know how you are going to work with its data.
 
 Imagine that the user wants to get from the product catalog: 
 

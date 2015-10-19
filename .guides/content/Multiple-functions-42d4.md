@@ -8,7 +8,7 @@ This time we'll:
 - Alias each resulting column as `product_min_price` and `product_max_price` respectively
 - Get the values only from the `id` `1` to the `id` `5`
 
-In your `mysql>` command line: 
+In your `mysql>` command line enter: 
 
 ```
 mysql> SELECT 
