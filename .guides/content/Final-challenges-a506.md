@@ -8,7 +8,7 @@
 SELECT 
 MIN(stock) AS min_stock, 
 MAX(stock) AS max_stock 
-FROM products;
+FROM e_store.products;
 ```
 
 |||

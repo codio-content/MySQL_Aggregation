@@ -4,7 +4,7 @@ Regardless of the products that the e-commerce platform may sell, its data struc
 
 Inspect the `e_store` tables in the `mysql>` prompt:
 
-`SHOW COLUMNS FROM e_store.products`:
+`SHOW COLUMNS FROM e_store.products;`
 ```
 +------------+-----------------+------+-----+---------+----------------+
 | Field      | Type            | Null | Key | Default | Extra          |
@@ -17,7 +17,7 @@ Inspect the `e_store` tables in the `mysql>` prompt:
 +------------+-----------------+------+-----+---------+----------------+
 ```
 
-`SHOW COLUMNS FROM  e_store.reviews`:
+`SHOW COLUMNS FROM  e_store.reviews;`
 ```
 +------------+---------------------+------+-----+---------+----------------+
 | Field      | Type                | Null | Key | Default | Extra          |
