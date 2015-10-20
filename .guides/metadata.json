@@ -124,10 +124,6 @@
    "title": "Challenge",
    "files": [
     {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
      "path": "sql-6-1.sql",
      "panel": 0,
      "action": "open"
@@ -170,10 +166,6 @@
    "title": "Challenge",
    "files": [
     {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
      "path": "sql-6-2.sql",
      "panel": 0,
      "action": "open"
@@ -215,10 +207,6 @@
    "id": "2242fa20-432c-29b8-4f8b-3b34be3aa935",
    "title": "Challenge",
    "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
     {
      "path": "sql-6-3.sql",
      "panel": 0,
@@ -330,16 +318,7 @@
    "title": "Challenge",
    "files": [
     {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
      "path": "sql-6-5.sql",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "#terminal: mysql",
      "panel": 0,
      "action": "open"
     }
@@ -381,16 +360,7 @@
    "title": "Challenge",
    "files": [
     {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
      "path": "sql-6-6.sql",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "#terminal: mysql",
      "panel": 0,
      "action": "open"
     }
@@ -432,16 +402,7 @@
    "title": "Challenge",
    "files": [
     {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
      "path": "sql-6-7.sql",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "#terminal: mysql",
      "panel": 0,
      "action": "open"
     }
@@ -483,16 +444,7 @@
    "title": "Challenge",
    "files": [
     {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
      "path": "sql-6-8.sql",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "#terminal: mysql",
      "panel": 0,
      "action": "open"
     }
@@ -624,16 +576,7 @@
    "title": "Challenge",
    "files": [
     {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
      "path": "sql-6-9.sql",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "#terminal: mysql",
      "panel": 0,
      "action": "open"
     }
@@ -689,6 +632,11 @@
      "path": "sql-6-11.sql",
      "panel": 0,
      "action": "open"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
     }
    ],
    "layout": "2-panels",
@@ -711,6 +659,11 @@
     },
     {
      "path": "sql-6-12.sql",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: mysql",
      "panel": 0,
      "action": "open"
     }
