@@ -1,0 +1,101 @@
+[
+ {
+  "taskId": "test-1260126282",
+  "points": 0,
+  "results": [
+   {
+    "code": 1,
+    "output": "Fail to retrieve queries from /home/codio/workspace/sql-6-2.sql file. File is empty.",
+    "timestamp": 1446713929422
+   }
+  ]
+ },
+ {
+  "taskId": "test-2082641079",
+  "points": 0,
+  "results": [
+   {
+    "code": 1,
+    "output": "Fail to retrieve queries from /home/codio/workspace/sql-6-5.sql file. File is empty.",
+    "timestamp": 1446714169747
+   }
+  ]
+ },
+ {
+  "taskId": "test-2186222225",
+  "points": 0,
+  "results": [
+   {
+    "code": 1,
+    "output": "Fail to retrieve queries from /home/codio/workspace/sql-6-6.sql file. File is empty.",
+    "timestamp": 1446714243409
+   }
+  ]
+ },
+ {
+  "taskId": "test-2188673486",
+  "points": 0,
+  "results": [
+   {
+    "code": 1,
+    "output": "Fail to retrieve queries from /home/codio/workspace/sql-6-9.sql file. File is empty.",
+    "timestamp": 1446714536101
+   }
+  ]
+ },
+ {
+  "taskId": "test-2216583671",
+  "points": 1,
+  "results": [
+   {
+    "code": 0,
+    "output": "Well done!",
+    "timestamp": 1446714360615
+   }
+  ]
+ },
+ {
+  "taskId": "test-2381957877",
+  "points": 0,
+  "results": [
+   {
+    "timestamp": 1446714545261,
+    "output": "Fail to retrieve queries from /home/codio/workspace/sql-6-10.sql file. File is empty.",
+    "code": 1
+   }
+  ]
+ },
+ {
+  "taskId": "test-3147153916",
+  "points": 0,
+  "results": [
+   {
+    "code": 1,
+    "output": "Fail to retrieve queries from /home/codio/workspace/sql-6-7.sql file. File is empty.",
+    "timestamp": 1446714300803
+   }
+  ]
+ },
+ {
+  "taskId": "test-3982292097",
+  "points": 0,
+  "results": [
+   {
+    "code": 1,
+    "output": "Fail to retrieve queries from /home/codio/workspace/sql-6-4.sql file. File is empty.",
+    "timestamp": 1446714054585
+   }
+  ]
+ },
+ {
+  "taskId": "test-4081504502",
+  "points": 0,
+  "results": [
+   {
+    "code": 1,
+    "output": "Fail to retrieve queries from /home/codio/workspace/sql-6-3.sql file. File is empty.",
+    "timestamp": 1446714008423
+   }
+  ]
+ }
+]
