@@ -17,8 +17,6 @@ var placeholder = '';
 var sqltest = {};
 sqltest.workspaceDirectory = '/home/codio/workspace/';
 sqltest.sqlDir = sqltest.workspaceDirectory + '.guides/sqltests/';
-// sqltest.workspaceDirectory = '/Volumes/Seagate Backup Plus Drive/htdocs/MySQL/CodioSQL.Units/sql2/';
-// sqltest.sqlDir = sqltest.workspaceDirectory + '.guides/sqltests.js/';
 
 // Init process:
 function readChallengeFile(srcFile, tasks){
@@ -48,8 +46,7 @@ function connectTo(dbName) {
 	connection = mysql.createConnection({
 	  host     : 'localhost',
 	  user     : 'root',
-	  password : 'codiop@nel',
-	  // password : 'N3tp0ePl@n',
+	  password : 'codio',
 	  database : dbName
 	});
 	connection.connect();
