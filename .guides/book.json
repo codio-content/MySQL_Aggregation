@@ -1,0 +1,246 @@
+{
+ "name": "MySQL-Aggregate_functions",
+ "children": [
+  {
+   "title": "Recap",
+   "id": "a77a78c7-7d95-d540-440c-bfd3316238e2",
+   "pageId": "a77a78c7-7d95-d540-440c-bfd3316238e2",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "What we'll learn",
+   "id": "4ab2d422-8728-3d8c-df57-d2507bd193aa",
+   "pageId": "4ab2d422-8728-3d8c-df57-d2507bd193aa",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "E-store DB",
+   "id": "f4e1e245-5b04-71f8-e19a-2b8695a576df",
+   "pageId": "f4e1e245-5b04-71f8-e19a-2b8695a576df",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Unit approach",
+     "id": "33a867e1-36e4-a8c-df42-fd421bc79f2f",
+     "pageId": "33a867e1-36e4-a8c-df42-fd421bc79f2f",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "SQL MIN()",
+   "id": "2d9c858b-7046-86d1-32b1-5325e5d8e9af",
+   "pageId": "2d9c858b-7046-86d1-32b1-5325e5d8e9af",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "SQL simple aliases",
+     "id": "b3964d1c-fb70-bf56-20-2645f011916",
+     "pageId": "b3964d1c-fb70-bf56-20-2645f011916",
+     "type": "page"
+    },
+    {
+     "title": "SQL MIN() WHERE",
+     "id": "c2fb7744-cdc-cf58-2b59-2f49534b593c",
+     "pageId": "c2fb7744-cdc-cf58-2b59-2f49534b593c",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "6fc9478-da51-f608-237f-3e42d620d2e0",
+     "pageId": "6fc9478-da51-f608-237f-3e42d620d2e0",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "SQL MAX()",
+   "id": "3eb2b6fd-dff5-6b9d-6913-75c5958e376a",
+   "pageId": "3eb2b6fd-dff5-6b9d-6913-75c5958e376a",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Challenge",
+     "id": "2dab89dd-b786-a581-95eb-da82991a2149",
+     "pageId": "2dab89dd-b786-a581-95eb-da82991a2149",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Multiple functions",
+   "id": "42d4b8f0-2982-94bd-a2a1-1019ed7cf7b5",
+   "pageId": "42d4b8f0-2982-94bd-a2a1-1019ed7cf7b5",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Challenge",
+     "id": "2242fa20-432c-29b8-4f8b-3b34be3aa935",
+     "pageId": "2242fa20-432c-29b8-4f8b-3b34be3aa935",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "SQL Average",
+   "id": "a8cf363b-9dcb-5e25-bd4f-bd85ae5afa8",
+   "pageId": "a8cf363b-9dcb-5e25-bd4f-bd85ae5afa8",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Ambiguous column names",
+     "id": "edfc5251-c647-b327-db4e-c0cd226b4105",
+     "pageId": "edfc5251-c647-b327-db4e-c0cd226b4105",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "f6fff155-3479-e463-42f9-1bd3b917d989",
+     "pageId": "f6fff155-3479-e463-42f9-1bd3b917d989",
+     "type": "page"
+    },
+    {
+     "title": "SQL SUM()",
+     "id": "45d725f-1209-3685-d01c-23073043186d",
+     "pageId": "45d725f-1209-3685-d01c-23073043186d",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "54da1bd6-914c-3e50-ce59-11627ce13376",
+     "pageId": "54da1bd6-914c-3e50-ce59-11627ce13376",
+     "type": "page"
+    },
+    {
+     "title": "SQL COUNT()",
+     "id": "d5d7e502-2db0-a1-57c0-34acc20cb7a5",
+     "pageId": "d5d7e502-2db0-a1-57c0-34acc20cb7a5",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "31c68e4c-fa59-f63-f36a-97c7e4796bbf",
+     "pageId": "31c68e4c-fa59-f63-f36a-97c7e4796bbf",
+     "type": "page"
+    },
+    {
+     "title": "SQL Average",
+     "id": "2099fa5e-515b-1bfb-be3c-2d7a1ac297df",
+     "pageId": "2099fa5e-515b-1bfb-be3c-2d7a1ac297df",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "2c3b4598-837b-33ff-35be-19f260c579c9",
+     "pageId": "2c3b4598-837b-33ff-35be-19f260c579c9",
+     "type": "page"
+    },
+    {
+     "title": "SQL AVG()",
+     "id": "97bb8c5d-e7b4-edf5-7d04-112f5e97f39c",
+     "pageId": "97bb8c5d-e7b4-edf5-7d04-112f5e97f39c",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "dbe390bb-8ed8-98a1-c27a-16698c9fec7c",
+     "pageId": "dbe390bb-8ed8-98a1-c27a-16698c9fec7c",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "SQL Group By",
+   "id": "a1d2782-f261-adbe-de52-23087a9ad3cf",
+   "pageId": "a1d2782-f261-adbe-de52-23087a9ad3cf",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "SQL Group By",
+     "id": "12027132-5470-744-ce73-2969b9eae9f0",
+     "pageId": "12027132-5470-744-ce73-2969b9eae9f0",
+     "type": "page"
+    },
+    {
+     "title": "SQL Group By",
+     "id": "ba12f4c0-ddb0-a4f5-1c43-a42c9aae37ee",
+     "pageId": "ba12f4c0-ddb0-a4f5-1c43-a42c9aae37ee",
+     "type": "page"
+    },
+    {
+     "title": "SQL Group By",
+     "id": "a932818a-93d8-ba73-b816-50bf1eb752d9",
+     "pageId": "a932818a-93d8-ba73-b816-50bf1eb752d9",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "GROUP BY - HAVING",
+   "id": "24d69bf7-9844-3020-97a4-db58b7e67e9",
+   "pageId": "24d69bf7-9844-3020-97a4-db58b7e67e9",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "GROUP BY - HAVING",
+     "id": "5fc123af-498a-5f1d-e0b1-c38cde1a",
+     "pageId": "5fc123af-498a-5f1d-e0b1-c38cde1a",
+     "type": "page"
+    },
+    {
+     "title": "GROUP BY - HAVING",
+     "id": "8115641b-891d-f400-fdb8-9830ca6df2b4",
+     "pageId": "8115641b-891d-f400-fdb8-9830ca6df2b4",
+     "type": "page"
+    },
+    {
+     "title": "GROUP BY - HAVING",
+     "id": "f1beeb5b-459b-8b5a-8fd2-5e92b64d7d1a",
+     "pageId": "f1beeb5b-459b-8b5a-8fd2-5e92b64d7d1a",
+     "type": "page"
+    },
+    {
+     "title": "WHERE - GROUP BY ",
+     "id": "cb2da8e5-684b-80b1-cebf-33796cdfcffb",
+     "pageId": "cb2da8e5-684b-80b1-cebf-33796cdfcffb",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "7a415ed8-f272-7313-e6dd-c09e37672d40",
+     "pageId": "7a415ed8-f272-7313-e6dd-c09e37672d40",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Final challenges",
+   "id": "a506c810-8446-311e-7348-4673d721898f",
+   "pageId": "a506c810-8446-311e-7348-4673d721898f",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Challenge",
+     "id": "98a34822-749a-4a04-5cc-5a05dbef468",
+     "pageId": "98a34822-749a-4a04-5cc-5a05dbef468",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "7926acc1-2242-f3e3-e6f6-c4cc9732d9a0",
+     "pageId": "7926acc1-2242-f3e3-e6f6-c4cc9732d9a0",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "That's all folks",
+   "id": "2b12ac4f-afcb-3aa1-678b-8fdbce96f007",
+   "pageId": "2b12ac4f-afcb-3aa1-678b-8fdbce96f007",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
